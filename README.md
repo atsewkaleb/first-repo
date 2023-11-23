@@ -1,2 +1,4 @@
 # first-repo
-practicig
+Name:-Kaleb Menbere 
+Age:-20
+Goal:-Too big too think!!!
