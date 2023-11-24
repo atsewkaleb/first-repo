@@ -1,5 +1,0 @@
-height:- short
-class:- low
-type:- tiny
-behavior:- little
-Department:- 0.1%
